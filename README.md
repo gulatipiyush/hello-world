@@ -3,6 +3,7 @@ I am trying to learn Git and start on a new journey
 
 
 | Activity Description                                                                                                                          | Time     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | PDW Introduction and Overview on the Hackathon Format                                                                                          | 10 mins  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | Part 1 — Hackathon: “Seeding” Macro and Micro Perspectives (Plenary)                                                                           | 110 mins |
