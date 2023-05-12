@@ -4,7 +4,7 @@ I am trying to learn Git and start on a new journey
 
 | Activity Description                                                                                                                          | Time     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| PDW Introduction and Overview on the Hackathon Format                                                                                          | 10 mins  |
+| **PDW Introduction and Overview on the Hackathon Format**<br /> `Enrico Forti`, `Ulya Tsolmon`, `Piyush Gulati`                                                                                         | **10 mins**  |
 | **Part 1 — Hackathon: “Seeding” Macro and Micro Perspectives (Plenary)**                                                                           | **110 mins** |
 | Each contributor offers a max 7' presentation introducing a specific research “seed” — i.e., a research question looking for a viable empirical strategy; a bleeding edge method looking for possible applications in management research; a dataset that may be of interest for management scholars.<br />Bukky Akinsanmi — Human Capital Capabilities: what has architecture got to do with it?<br />Julien Clement — Esports as natural laboratories for organizational research<br />Ying-Ying Hsieh — Governance in decentralized autonomous orgs (DAOs)<br />Monika Kackovic — Computational approaches to culture and creativity<br />Harsh Ketkar — Organizational design research using computational models<br />James Riley — Architectural drivers of status signals<br />Chia-Jung Tsay — Psychological biases and social evaluation<br />Includes one break (10 mins). | |
 | **Part 2 — Hackathon: Parallel Breakout Roundtable Sessions**                                                                                     | **110 mins** |
@@ -12,4 +12,4 @@ I am trying to learn Git and start on a new journey
 Includes one break (10 mins). | |
 Table Assignment: TBD based on pre-registration                                                                                                 
 Enrico Forti, Ulya Tsolmon, Daphne Baldassari, Victoria Sevcenko, Piyush Gulati, Kim Claes, Oliver Baumann, Maciej Workiewicz facilitate interactions. | |
-| Closing Remarks                                                                                                                               | 10 mins  |
+| **Closing Remarks**                                                                                                                              | **10 mins**  |
