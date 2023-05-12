@@ -7,7 +7,7 @@ I am trying to learn Git and start on a new journey
 | PDW Introduction and Overview on the Hackathon Format                                                                                          | 10 mins  |
 | **Part 1 — Hackathon: “Seeding” Macro and Micro Perspectives (Plenary)**                                                                           | **110 mins** |
 | Each contributor offers a max 7' presentation introducing a specific research “seed” — i.e., a research question looking for a viable empirical strategy; a bleeding edge method looking for possible applications in management research; a dataset that may be of interest for management scholars. 
-Bukky Akinsanmi — Human Capital Capabilities: what has architecture got to do with it?<\n>Julien Clement — Esports as natural laboratories for organizational research 
+Bukky Akinsanmi — Human Capital Capabilities: what has architecture got to do with it?\Julien Clement — Esports as natural laboratories for organizational research 
 Ying-Ying Hsieh — Governance in decentralized autonomous orgs (DAOs) 
 Monika Kackovic — Computational approaches to culture and creativity 
 Harsh Ketkar — Organizational design research using computational models 
